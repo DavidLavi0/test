@@ -1,0 +1,57 @@
+
+header {
+    background-color: blue;
+    color: white;
+    padding: 10px;
+    text-decoration: none;
+    margin: 20px;
+    display: flex;
+    flex-direction: row;
+    justify-content: right;
+}
+
+.fpozadi{
+    color: white;
+    display: flex;
+    justify-content: center;
+}
+
+.chatbox{
+    display: flex;
+    justify-content: center;
+    color:white;
+}
+
+.paticka{
+    background-color: aqua;
+    margin: 10px;
+    padding: 3px;
+}
+main{
+    background-color: purple;
+    padding: 120px;
+}
+
+.text1{
+    background-color: blue;
+    border: 10px;
+    border-radius: 10px;
+    padding: 10px;
+    color: white;
+}
+
+.text2{
+    background-color: blue;
+    border: 30px;
+    border-radius: 10px;
+    padding: 10px;
+    color: white;
+}
+
+.text3{
+    background-color: blue;
+    border: 10px;
+    border-radius: 10px;
+    padding: 10px;
+    color: white;
+}
